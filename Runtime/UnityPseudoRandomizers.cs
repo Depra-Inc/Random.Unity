@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using Depra.Random.Domain.Randomizers;
 
-namespace Depra.Unity.Random.Runtime
+namespace Depra.Random.Unity.Runtime
 {
     public sealed class UnityPseudoRandomizers : IRandomizerCollection
     {

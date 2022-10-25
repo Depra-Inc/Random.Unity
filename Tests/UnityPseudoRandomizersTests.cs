@@ -4,10 +4,10 @@
 using System.Linq;
 using Depra.Random.Application.ServiceBuilder;
 using Depra.Random.Application.Services;
-using Depra.Unity.Random.Runtime;
+using Depra.Random.Unity.Runtime;
 using NUnit.Framework;
 
-namespace Depra.Unity.Random.Tests
+namespace Depra.Random.Unity.Tests
 {
     [TestFixture(TestOf = typeof(UnityPseudoRandomizers))]
     internal class UnityPseudoRandomizersTests

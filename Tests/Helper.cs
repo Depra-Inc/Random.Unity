@@ -4,7 +4,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Depra.Unity.Random.Tests
+namespace Depra.Random.Unity.Tests
 {
     internal static class Helper
     {
