@@ -1,5 +1,6 @@
 {
-    "name": "Depra.Unity.Random",
+    "name": "Depra.Random.Unity",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,9 +1,10 @@
 {
-    "name": "Depra.Unity.Random.Tests.Editor",
+    "name": "Depra.Random.Unity.Tests.Editor",
+    "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "Depra.Unity.Random"
+        "Depra.Random.Unity"
     ],
     "includePlatforms": [
         "Editor"
